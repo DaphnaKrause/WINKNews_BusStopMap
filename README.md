@@ -1,5 +1,5 @@
 # WINKNews_BusStopMap
-#Background
+# Background
 ###### For part of my summer, I am working for WINK News in Fort Myers.
 
 I was given a set of data outlining bus stop times in Lee County. The addresses included cross streets that lead to an intersection that the bus stops were at.
