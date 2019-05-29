@@ -18,7 +18,7 @@ This is a phone number I found on there facebook page, They are very nice and ar
 I have the data, *I Just need Lat and Long.*
 This is where handy dandy python always comes in clutch. 
 I started writing a script that would run on a Google API 
->You can have a couple [API’s Free](https://developers.google.com/maps/documentation/geocoding/get-api-key)on a trial basis 
+>You can have a couple [API’s Free](https://developers.google.com/maps/documentation/geocoding/get-api-key) on a trial basis 
 Shout out to NICAR for helping me know what the heck I just said. 
 
 ## Back-on Deadline
@@ -40,10 +40,11 @@ made by Mindy McAdams she is a Data Journalism Professor at the University of Fl
 Additionally, I used the following documentation by Prof.McAdams to create a [Virtual Environment](https://docs.google.com/document/d/1g6A5vbniN2ZoFUWaHJD35t9qiXS9raJ14hlzK4qot7g/edit) in my Folder in order to open a new Jupyter Notebook.
 
 ## The files I included in this Repo are my:
-- 1. HTML
-- 2. Images (The markers I used)
-- 3. js (All my data in JSON format)
-- 4. styles (My one CSS file, this is just how I formatted my page, WINK News has there own styles that they plugged in when they uploaded it to there site)
+1. HTML
+2. Images (The markers I used)
+3. js (All my data in JSON format)
+4. styles (My one CSS file, this is just how I formatted my page, WINK News has there own styles that they plugged in when they uploaded it to the site)
 
 Hope this helps,
+
 Happy Coding!
