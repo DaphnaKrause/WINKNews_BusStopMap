@@ -1,7 +1,9 @@
 # WINKNews_BusStopMap
 
-Separate page for [Final Map](https://www.winknews.com/lee-county-bus-stop-times/)
-Final [Story with Map included]()
+[Story with Map included](http://www.winknews.com/2019/05/29/bus-stop-safety-why-are-so-many-kids-in-lee-county-waiting-for-the-bus-in-the-dark/)
+
+
+Separate page for [just the Map](https://www.winknews.com/lee-county-bus-stop-times/)
 
 # Background
 ###### For part of my summer, I am working for WINK News in Fort Myers.
